@@ -1,4 +1,4 @@
-![photo](./photo.jpg "my photo")
+![photo](./images/photo.jpg "my photo")
 
 # Dmytro Chushko
 
