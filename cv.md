@@ -69,3 +69,26 @@ Styled-Components, TypeScript, Redux Toolkit, Redux
 Query, Nest.js, MySQL)
 Job search app.\
 Internship project. Role: Fullstack developer.
+
+### Languages
+
+Ukrainian - native\
+Russian - native\
+English - Intermediate
+
+### Aditional Education
+
+IT School GoIT (Kyiv)\
+2021-2022 | Full Stack Developer\
+
+[Udemy](https://www.udemy.com/certificate/UC-ae8a2366-8a3b-4f64-b129-13e927f8a21b/)\
+2021-2022 | JavaScript + React
+
+### Contact information
+
++380674097948\
+dmytro.chushko@gmail.com\
+[GIT](https://github.com/dmytro-chushko)\
+[linkedin](https://www.linkedin.com/in/dmytro-chushko/)\
+discord - Dmytro Chushko (@dmytro-chushko)\
+Kyiv, Ukraine
